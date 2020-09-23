@@ -1,0 +1,19 @@
+{
+  "name": "gql-federation-spike",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "dependencies": {
+    "@apollo/federation": "^0.20.4",
+    "@apollo/gateway": "^0.20.4",
+    "apollo-server": "^2.18.2",
+    "graphql": "^15.4.0",
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "echo 'node ./server in one terminal, node ./server1 in another"
+  },
+  "author": "",
+  "license": "ISC"
+}
